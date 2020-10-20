@@ -1,0 +1,4 @@
+company\Main.class
+company\web\InventoryServlet.class
+company\dataaccess\MyConnection.class
+company\dataaccess\LocalPostgresConnection.class
